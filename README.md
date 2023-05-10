@@ -1,7 +1,7 @@
 # IP-Adress-tracker
 
-## Stack:
- - HTML, CSS (SASS), JavaScript
+Stack:
+ - HTML, CSS (SASS), JavaScript, Webpack
 
 
 
